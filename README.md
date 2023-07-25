@@ -16,9 +16,9 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of my app:
 
-<img src='https://github.com/jlyjelly/first-ios-app' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://i.imgur.com/zz6o0a1.gif
 
 GIF created with ...  
 
