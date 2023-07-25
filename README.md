@@ -5,7 +5,7 @@ Submitted by: Jessica Ly
 
 jessica ly hello is an app that randomly generates a background color upon a button click. It also introduces the name of the author, myself, and my current job role.
 
-Time spent: 2 hours spent in total
+Time spent: 3 hours spent in total
 
 ## Required Features
 
@@ -18,24 +18,41 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/jlyjelly/first-ios-app' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
+
 [Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
 
 ## App Brainstorming (Step 4)
+Messenger
+- Able to search through conversation
+- React to messages with emojis and images
+- Cool backgrounds
+
+TikTok
+- Able to search key topics and get relevant videos
+- Content catered to my interests
+
+Reddit
+- See all of different communities on home page
+- Able to see top vs. new posts within a year, month etc.
+
+An app I would like to build is a wikipedia for slime lovers where users are able 
+to browse different textures of slime. Within each category, there are recipes
+that users can use to create their slime. There could also be a forum where
+people are able to discuss their slime or post them and give eachother feedback.
+Also, I would like to have a page where people can see slime shop reviews and 
+recommend slime shops. It would be something like a Reddit community / Wikipedia for slime.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had trouble finding out what the StoryBoard file was for the longest time until I realized it meant the main file. It also took some time for me to sync my files to github since I realized I made another account previously. Another thing I was not sure about was how to center my button. It seemed I had to move it more towards the right to make it appear "aligned" in the middle.  
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Jessica Ly
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
